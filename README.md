@@ -3,14 +3,17 @@
 </p>
 
 ## Projeto
+
 Descrição Projeto...
 
 ## Tecs
+
 Projeto Evento NLW, contém:
 -HTML
 -CSS
 -Git e Github
 
 ## Layout
+
 Veja
 [Aqui](https://github.com/JulianoAC/nlwspctime).
